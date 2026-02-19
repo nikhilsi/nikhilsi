@@ -6,7 +6,8 @@ Technology executive who builds products, teams, and organizations that ship. 25
 
 ### Recent work
 
-- **[GitaVani](https://github.com/nikhilsi/gitavani)** — iOS Bhagavad Gita reader app. Swift/SwiftUI, 701 verses, 17 scholars, 4 themes, Sanskrit audio. Built end-to-end and submitted to App Store. [[website](https://gitavani.app)]
+- **[GitaVani](https://github.com/nikhilsi/gitavani)** — iOS Bhagavad Gita reader app. Swift/SwiftUI, 701 verses, 17 scholars, 4 themes, Sanskrit audio. Built end-to-end and published on App Store. [[website](https://gitavani.app)]
+- **[ClearNews](https://github.com/nikhilsi/news-aggregator)** — News aggregator, 41 sources, 13 categories, in-app reader view. Three clients (Next.js, SwiftUI iOS, FastAPI backend), Docker deployment. Published on App Store. [[live](https://getclearnews.com)]
 - **[ScreenTrades.ai](https://screentrades.ai)** — AI-powered trading analysis platform. React, FastAPI, Claude AI, 20+ real-time data APIs. Shipped 20 iterations in 6 months.
 
 ### Career highlights
