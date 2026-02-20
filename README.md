@@ -6,9 +6,10 @@ Technology executive who builds products, teams, and organizations that ship. 25
 
 ### Recent work
 
-- **[GitaVani](https://github.com/nikhilsi/gitavani)** — iOS Bhagavad Gita reader app. Swift/SwiftUI, 701 verses, 17 scholars, 4 themes, Sanskrit audio. Built end-to-end and published on App Store. [[website](https://gitavani.app)]
-- **[ClearNews](https://github.com/nikhilsi/news-aggregator)** — News aggregator, 41 sources, 13 categories, in-app reader view. Three clients (Next.js, SwiftUI iOS, FastAPI backend), Docker deployment. Published on App Store. [[live](https://getclearnews.com)]
+- **[TourGraph](https://github.com/nikhilsi/tourgraph)** — AI-powered supplier onboarding for the $250-400B tours & experiences market. Extracts structured inventory from operator websites using Claude + Firecrawl, OCTO-aligned schema. Phase 0 complete: 83 products, ~95% accuracy, zero pricing hallucinations. [[tourgraph.ai](https://tourgraph.ai)]
 - **[ScreenTrades.ai](https://screentrades.ai)** — AI-powered trading analysis platform. React, FastAPI, Claude AI, 20+ real-time data APIs. Shipped 20 iterations in 6 months.
+- **[GitaVani](https://github.com/nikhilsi/gitavani)** — iOS Bhagavad Gita reader. Swift/SwiftUI, 701 verses, 17 scholars, 4 themes, Sanskrit audio. Published on App Store. [[gitavani.app](https://gitavani.app)]
+- **[ClearNews](https://github.com/nikhilsi/news-aggregator)** — News aggregator, 41 sources, 13 categories, in-app reader view. Next.js + SwiftUI iOS + FastAPI backend. Published on App Store. [[getclearnews.com](https://getclearnews.com)]
 
 ### Career highlights
 
