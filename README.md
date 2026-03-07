@@ -11,6 +11,7 @@ Technology executive who builds products, teams, and organizations that ship. 25
 - **[Recurate](https://github.com/nikhilsi/recurate)** — Chrome and VS Code extensions that let you annotate AI responses with highlight, strikethrough, dig deeper, and verify gestures. Structured feedback, not paragraphs. [[recurate.ai](https://recurate.ai)]
 - **[GitaVani](https://github.com/nikhilsi/gitavani)** — iOS Bhagavad Gita reader. Swift/SwiftUI, 701 verses, 17 scholars, 4 themes, Sanskrit audio. Published on App Store. [[gitavani.app](https://gitavani.app)]
 - **[ClearNews](https://github.com/nikhilsi/news-aggregator)** — News aggregator, 41 sources, 13 categories, in-app reader view. Next.js + SwiftUI iOS + FastAPI backend. Published on App Store. [[getclearnews.com](https://getclearnews.com)]
+- **[CoPilots Launchpad](https://github.com/nikhilsi/copilots-launchpad)** — Electron desktop app for managing and launching multiple M365 test accounts with one click. Playwright-driven auto-login, isolated browser profiles, encrypted credentials via OS keychain. macOS + Windows. Idea to shipped in 4 hours. [[GitHub](https://github.com/nikhilsi/copilots-launchpad)]
 
 ### Career highlights
 
