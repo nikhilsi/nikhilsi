@@ -16,7 +16,7 @@
 
 ### What the Building Taught Me
 
-- **[From Instinct to Intent™](https://nikhilsinghal-ai-trust-commons.medium.com/discovering-intent-the-journey-that-starts-before-youre-ready-4a8a69fce594)** — Published manifesto on the missing interface between human judgment and machine execution. USPTO trademark filed ([Serial 99690685](https://tsdr.uspto.gov/#caseNumber=99690685&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch)). Book in progress.
+- **[From Instinct to Intent™](https://aitrustcommons.org/blog/)** — Publication series on the missing interface between human judgment and machine execution. [Article 1: Discovering Intent](https://nikhilsinghal-ai-trust-commons.medium.com/discovering-intent-the-journey-that-starts-before-youre-ready-4a8a69fce594) (manifesto). [Article 2: Languages Designed for Humans](https://medium.com/@nikhilsinghal-ai-trust-commons/we-are-making-ai-write-code-in-languages-designed-for-humans-that-is-the-problem-d6721ab296ad) (AI-native programming languages). USPTO trademark filed ([Serial 99690685](https://tsdr.uspto.gov/#caseNumber=99690685&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch)). Book in progress.
 - **[NIST Public Comment](https://www.regulations.gov/comment/NIST-2025-0035-0352)** — Submitted to NIST on AI agent governance. Deployer perspective across 8 organizations, 7 industries, and compliance regimes including SOC 2, PCI DSS, HIPAA, COPPA, FERPA, FCC, and ITAR/EAR.
 - **[AI Trust Commons](https://aitrustcommons.org)** — Open-source governance for AI agents in the enterprise. [[GitHub org](https://github.com/aitrustcommons)]
 
