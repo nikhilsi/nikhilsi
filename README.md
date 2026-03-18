@@ -2,23 +2,41 @@
 
 **CTO | VP Engineering | AI Practitioner & Governance Strategist**
 
-25+ years building technology organizations across PE-backed startups and Fortune 500s including Expedia, T-Mobile, Microsoft, AT&T, and Hitachi Consulting. For the past 10 months, I have been building with AI every day — ~3,000 commits across 14 repos, all with AI as my primary development partner. The building taught me something: the gap between what a human means and what an AI does is not just a product problem. It is a governance problem. If you cannot structurally express intent, you cannot govern what happens next. So I started writing about it and contributing to federal AI standards.
+I design, architect, and ship production systems across every pattern of the [Human Intelligence Partnership Charter](https://hipcharter.com): the Foundation pattern, where AI is my daily build partner. The Tooling pattern, where the products I ship use AI to build but work without any AI dependency. The Pipeline pattern, where AI enriches data behind the scenes and users never see it. And the Integration pattern, where AI works alongside proprietary APIs and live data at runtime. These are not wrappers. They are architectures designed for two intelligences working together.
+
+The building taught me something. The hardest problem in AI is not what the machine can produce. It is the structural gap between what the human means and what the machine does. I call it the Intent Layer. That insight became the [HIP Charter](https://hipcharter.com), [AI Trust Commons](https://aitrustcommons.org), and the [From Instinct to Intent™](https://aitrustcommons.org/blog/) series.
+
+25 years at Microsoft, T-Mobile, AT&T, Expedia Group, and Hitachi Consulting watching the distance grow between what leaders intended and what systems actually delivered. The governance layer between intent and execution was always the hardest part to get right. The same pattern is playing out in AI.
 
 ### What I'm Building
 
-- **[Recurate Extensions](https://github.com/nikhilsi/recurate)** — Chrome + VS Code extensions for annotating AI responses. Highlight, strikethrough, dig deeper, verify — structured feedback that auto-injects into your next message. Works on claude.ai, ChatGPT, and Microsoft Copilot (both Enterprise and Consumer). Published on Chrome Web Store, VS Code Marketplace, and Open VSX. [[recurate.ai](https://recurate.ai)]
-- **[Recurate Platform](https://app.recurate.ai)** — Multi-model AI comparison with a curation loop. Ask a question once, get responses from Claude, GPT, Gemini, and Grok side by side. Keep the best parts, drop the rest, continue the conversation. Multi-turn. The models are the commodity. The curation is what's missing everywhere else. [[app.recurate.ai](https://app.recurate.ai)]
-- **[ScreenTrades](https://screentrades.ai)** — AI-powered trading analysis. 1,882 commits over 10 months — the origin project where the AI partnership started. V2.0 web + iOS V2 shipped. React, FastAPI, Claude AI. [[screentrades.ai](https://screentrades.ai)]
-- **[TourGraph](https://github.com/nikhilsi/tourgraph)** — Tour discovery across 136K+ experiences in 3,380 destinations. v10.0.0: standalone Express 5 + TypeScript backend API, Next.js web, SwiftUI iOS with MapKit globe + 2,694 destination pins. [[tourgraph.ai](https://tourgraph.ai)]
-- **[GitaVani](https://github.com/nikhilsi/gitavani)** — Bhagavad Gita reader. 701 verses, 17 scholars, Sanskrit audio, 4 themes. iOS (App Store) + Android. [[gitavani.app](https://gitavani.app)]
-- **[ClearNews](https://github.com/nikhilsi/news-aggregator)** — News aggregator. 41 sources, 13 categories, no ads. iOS (App Store) + Android + Web + API. [[getclearnews.com](https://getclearnews.com)]
-- **[CoPilots Launchpad](https://github.com/nikhilsi/copilots-launchpad)** — Electron app for M365 test account management. Azure Trusted Signing. macOS + Windows. MIT license.
+- **[Recurate Platform](https://app.recurate.ai)** — Multi-model AI comparison with a curation loop. Ask a question once, get responses from Claude, GPT, Gemini, and Grok side by side. Keep the best parts, drop the rest, continue the conversation. Multi-turn. The models are the commodity. The curation is what's missing everywhere else. *Integration pattern.* [[app.recurate.ai](https://app.recurate.ai)]
+- **[Recurate Composer](https://chromewebstore.google.com)** — Chrome extension for formatting and structuring input before sending to any AI. *Tooling pattern: built with AI, ships without AI.* [[recurate.ai](https://recurate.ai)]
+- **[Recurate Annotator](https://chromewebstore.google.com)** — Chrome extension for annotating AI responses. Highlight, strikethrough, dig deeper, verify — structured feedback that auto-injects into your next message. Works on claude.ai, ChatGPT, and Microsoft Copilot. Published on Chrome Web Store. *Tooling pattern: built with AI, ships without AI.* [[recurate.ai](https://recurate.ai)]
+- **[ScreenTrades](https://screentrades.ai)** — AI-powered trading analysis. 1,882 commits over 10 months — the origin project where the AI partnership started. Aggregates 20+ real-time data APIs, delivers analysis with confidence scores, entry/exit points, transparent reasoning. V2.0 web + iOS shipped. *Integration pattern.* [[screentrades.ai](https://screentrades.ai)]
+- **[TourGraph](https://tourgraph.ai)** — Tour discovery across 136K+ experiences in 3,380 destinations. v10.0.0: standalone Express 5 + TypeScript backend API, Next.js web, SwiftUI iOS with MapKit globe + 2,694 destination pins. *Pipeline pattern.* [[tourgraph.ai](https://tourgraph.ai)]
+- **[GitaVani](https://gitavani.app)** — Bhagavad Gita reader. 701 verses, 17 scholars, Sanskrit audio, 4 themes. iOS (App Store) + Android. *Pipeline pattern.* [[gitavani.app](https://gitavani.app)]
+- **[ClearNews](https://getclearnews.com)** — News aggregator. 41 sources, 13 categories, no ads. iOS (App Store) + Android + Web + API. *Pipeline pattern.* [[getclearnews.com](https://getclearnews.com)]
+- **[CoPilots Launchpad](https://github.com/nikhilsi/copilots-launchpad)** — Electron app for M365 test account management. Azure Trusted Signing. macOS + Windows. MIT license. *Tooling pattern.* [[GitHub](https://github.com/nikhilsi/copilots-launchpad)]
 
 ### What the Building Taught Me
 
-- **[From Instinct to Intent™](https://aitrustcommons.org/blog/)** — Publication series on the missing interface between human judgment and machine execution. [Article 1: Discovering Intent](https://nikhilsinghal-ai-trust-commons.medium.com/discovering-intent-the-journey-that-starts-before-youre-ready-4a8a69fce594) (manifesto). [Article 2: Languages Designed for Humans](https://medium.com/@nikhilsinghal-ai-trust-commons/we-are-making-ai-write-code-in-languages-designed-for-humans-that-is-the-problem-d6721ab296ad) (AI-native programming languages). [Article 3: Engine vs Steering Wheel](https://nikhilsinghal-ai-trust-commons.medium.com/everyone-is-arguing-about-the-engine-who-is-building-the-steering-wheel-ai-trust-commons-c7b81a7430f0) (the intent gap is architecture-agnostic). USPTO trademark filed ([Serial 99690685](https://tsdr.uspto.gov/#caseNumber=99690685&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch)). Book in progress.
-- **[NIST Public Comment](https://www.regulations.gov/comment/NIST-2025-0035-0352)** — Submitted to NIST on AI agent governance. Deployer perspective across 8 organizations, 7 industries, and compliance regimes including SOC 2, PCI DSS, HIPAA, COPPA, FERPA, FCC, and ITAR/EAR.
-- **[AI Trust Commons](https://aitrustcommons.org)** — Open-source governance for AI agents in the enterprise. [[GitHub org](https://github.com/aitrustcommons)]
+**[Human Intelligence Partnership Charter](https://hipcharter.com)**
+Four partnership patterns for human-AI systems. Fifteen positions on the map. Drop "artificial." Start building with intelligence.
+Published on [hipcharter.com](https://hipcharter.com), [Medium](https://nikhilsinghal-ai-trust-commons.medium.com/the-human-intelligence-partnership-charter-3cb893e1d5f0), and [Zenodo](https://doi.org/10.5281/zenodo.19078843).
+
+**[From Instinct to Intent™](https://aitrustcommons.org/blog/)** — Publication series on the structural gap between human intent and machine execution.
+USPTO trademark filed ([Serial 99690685](https://tsdr.uspto.gov/#caseNumber=99690685&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch)). Book in progress.
+
+- [Article 1: Discovering Intent](https://aitrustcommons.org/blog/2026/03/08/discovering-intent/) — The manifesto. DOI: [10.5281/zenodo.18917473](https://doi.org/10.5281/zenodo.18917473)
+- [Article 2: Languages Designed for Humans](https://aitrustcommons.org/blog/2026/03/13/languages-designed-for-humans/) — AI-native programming languages. DOI: [10.5281/zenodo.19005877](https://doi.org/10.5281/zenodo.19005877)
+- [Article 3: Engine vs Steering Wheel](https://aitrustcommons.org/blog/2026/03/14/engine-vs-steering-wheel/) — The intent gap is architecture-agnostic. DOI: [10.5281/zenodo.19025149](https://doi.org/10.5281/zenodo.19025149)
+- [Article 4: Stop Calling It Artificial](https://aitrustcommons.org/blog/2026/03/17/stop-calling-it-artificial/) — The HIP Charter. DOI: [10.5281/zenodo.19079578](https://doi.org/10.5281/zenodo.19079578)
+
+**[NIST Public Comment on AI Agent Governance](https://www.regulations.gov/comment/NIST-2025-0035-0352)**
+~5,000 word submission to NIST CAISI docket. Deployer perspective across 8 organizations, 7 industries, and compliance regimes including SOC 2, PCI DSS, HIPAA, COPPA, FERPA, FCC, and ITAR/EAR. DOI: [10.5281/zenodo.18903117](https://doi.org/10.5281/zenodo.18903117)
+
+**[AI Trust Commons](https://aitrustcommons.org)** — Open-source governance for AI agents in the enterprise. [[GitHub org](https://github.com/aitrustcommons)]
 
 ### Background
 
@@ -26,4 +44,4 @@ Before this: CTO and VP Engineering roles across Expedia ($45M savings), Imperat
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/nikhilsinghal/) · [Resume](https://github.com/nikhilsi/resume) · [AI Trust Commons](https://aitrustcommons.org) · nikhilsinghal@hotmail.com · Seattle, WA
+[LinkedIn](https://www.linkedin.com/in/nikhilsinghal/) · [Resume](https://github.com/nikhilsi/resume) · [AI Trust Commons](https://aitrustcommons.org) · [HIP Charter](https://hipcharter.com) · [ORCID](https://orcid.org/0009-0003-5449-6830) · nikhilsinghal@hotmail.com · Seattle, WA
