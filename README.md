@@ -31,6 +31,7 @@ USPTO trademark filed ([Serial 99690685](https://tsdr.uspto.gov/#caseNumber=9969
 - [Article 2: Languages Designed for Humans](https://aitrustcommons.org/blog/2026/03/13/languages-designed-for-humans/) — AI-native programming languages. DOI: [10.5281/zenodo.19005877](https://doi.org/10.5281/zenodo.19005877)
 - [Article 3: Engine vs Steering Wheel](https://aitrustcommons.org/blog/2026/03/14/engine-vs-steering-wheel/) — The intent gap is architecture-agnostic. DOI: [10.5281/zenodo.19025149](https://doi.org/10.5281/zenodo.19025149)
 - [Article 4: Stop Calling It Artificial](https://aitrustcommons.org/blog/2026/03/17/stop-calling-it-artificial/) — The HIP Charter. DOI: [10.5281/zenodo.19079578](https://doi.org/10.5281/zenodo.19079578)
+- [Article 5: Discovering Humanity Through AI](https://aitrustcommons.org/blog/2026/03/23/discovering-humanity-through-ai/) — The personal thesis. DOI: [10.5281/zenodo.19187738](https://doi.org/10.5281/zenodo.19187738)
 
 **[NIST Public Comment on AI Agent Governance](https://www.regulations.gov/comment/NIST-2025-0035-0352)**
 ~5,000 word submission to NIST CAISI docket. Deployer perspective across 8 organizations, 7 industries, and compliance regimes including SOC 2, PCI DSS, HIPAA, COPPA, FERPA, FCC, and ITAR/EAR. DOI: [10.5281/zenodo.18903117](https://doi.org/10.5281/zenodo.18903117)
