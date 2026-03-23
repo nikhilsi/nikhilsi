@@ -36,6 +36,9 @@ USPTO trademark filed ([Serial 99690685](https://tsdr.uspto.gov/#caseNumber=9969
 **[NIST Public Comment on AI Agent Governance](https://www.regulations.gov/comment/NIST-2025-0035-0352)**
 ~5,000 word submission to NIST CAISI docket. Deployer perspective across 8 organizations, 7 industries, and compliance regimes including SOC 2, PCI DSS, HIPAA, COPPA, FERPA, FCC, and ITAR/EAR. DOI: [10.5281/zenodo.18903117](https://doi.org/10.5281/zenodo.18903117)
 
+**[NCCoE Response: Intent Conveyance in AI Agent Authorization](https://aitrustcommons.org/blog/2026/03/23/nccoe-ai-agent-identity-authorization-response/)**
+~5,900 word response to the NCCoE concept paper on AI agent identity and authorization. Proposes intent conveyance as the missing layer, with case studies from Spotify, Amazon/AWS, and Meta. DOI: [10.5281/zenodo.19197399](https://doi.org/10.5281/zenodo.19197399)
+
 **[AI Trust Commons](https://aitrustcommons.org)** — Open-source governance for AI agents in the enterprise. [[GitHub org](https://github.com/aitrustcommons)]
 
 ### Background
