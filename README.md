@@ -8,16 +8,6 @@ The building taught me something. The first product took nine months. The most r
 
 25 years at Microsoft, T-Mobile, AT&T, Expedia Group, and Hitachi Consulting watching the distance grow between what leaders intended and what systems actually delivered. The governance layer between intent and execution was always the hardest part to get right. The same pattern is playing out in AI.
 
-### What I'm Building
-
-- **[ResyncLife](https://resynclife.com)** — A personal command center that treats your whole life as one life. Voice capture with NL parsing, calendar sync (EventKit, ICS, OAuth), family circles, goal tracking. FastAPI + SwiftUI iOS + sync engine. The only product in the portfolio that lives in all four HIP Charter patterns simultaneously. Full stack shipped in a day, after a year of learning across every other product. *The center of the bloom.* [[resynclife.com](https://resynclife.com)]
-- **[Recurate](https://recurate.ai)** — A suite of five extensions for the complete AI interaction lifecycle. **Composer** formats input. **Annotator** curates output (highlight, strikethrough, dig deeper, verify). **Copier** captures conversations as clean markdown or styled HTML across 7 platforms. **Connect** coordinates between parallel AI chats with one-click context sharing. **Platform** compares responses across Claude, GPT, Gemini, and Grok side by side. Chrome Web Store + VS Code. *Tooling and Integration patterns.* [[recurate.ai](https://recurate.ai)]
-- **[ScreenTrades](https://screentrades.ai)** — AI-powered trading analysis. 1,882 commits over 10 months, the origin project where the AI partnership started. 20+ real-time data APIs, confidence scores, transparent reasoning. V2.0 web + iOS shipped. *Integration pattern.* [[screentrades.ai](https://screentrades.ai)]
-- **[TourGraph](https://tourgraph.ai)** — Tour discovery across 136K+ experiences in 3,380 destinations. v10.0.0: Express 5 + TypeScript backend, Next.js web, SwiftUI iOS with MapKit globe. *Pipeline pattern.* [[tourgraph.ai](https://tourgraph.ai)]
-- **[GitaVani](https://gitavani.app)** — Bhagavad Gita reader. 701 verses, 17 scholars, Sanskrit audio. iOS + Android. *Pipeline pattern.* [[gitavani.app](https://gitavani.app)]
-- **[ClearNews](https://getclearnews.com)** — News aggregator. 41 sources, 13 categories, no ads. iOS + Android + Web + API. *Pipeline pattern.* [[getclearnews.com](https://getclearnews.com)]
-- **[CoPilots Launchpad](https://github.com/nikhilsi/copilots-launchpad)** — M365 test account management. Azure Trusted Signing. macOS + Windows. MIT license. *Tooling pattern.* [[GitHub](https://github.com/nikhilsi/copilots-launchpad)]
-
 ### What the Building Taught Me
 
 **[Human Intelligence Partnership Charter](https://hipcharter.com)**
@@ -41,10 +31,20 @@ USPTO trademark filed ([Serial 99690685](https://tsdr.uspto.gov/#caseNumber=9969
 
 **[AI Trust Commons](https://aitrustcommons.org)** — Open-source governance for AI agents in the enterprise. [[GitHub org](https://github.com/aitrustcommons)]
 
+### What I'm Building
+
+- **[ResyncLife](https://resynclife.com)** — A personal command center that treats your whole life as one life. Voice capture with NL parsing, calendar sync (EventKit, ICS, OAuth), family circles, goal tracking. FastAPI + SwiftUI iOS + sync engine. The only product in the portfolio that lives in all four HIP Charter patterns simultaneously. Full stack shipped in a day, after a year of learning across every other product. *The center of the bloom.* [[resynclife.com](https://resynclife.com)]
+- **[Recurate](https://recurate.ai)** — A suite of five extensions for the complete AI interaction lifecycle. **Composer** formats input. **Annotator** curates output (highlight, strikethrough, dig deeper, verify). **Copier** captures conversations as clean markdown or styled HTML across 7 platforms. **Connect** coordinates between parallel AI chats with one-click context sharing. **Platform** compares responses across Claude, GPT, Gemini, and Grok side by side. Chrome Web Store + VS Code. *Tooling and Integration patterns.* [[recurate.ai](https://recurate.ai)]
+- **[ScreenTrades](https://screentrades.ai)** — AI-powered trading analysis. 1,882 commits over 10 months, the origin project where the AI partnership started. 20+ real-time data APIs, confidence scores, transparent reasoning. V2.0 web + iOS shipped. *Integration pattern.* [[screentrades.ai](https://screentrades.ai)]
+- **[TourGraph](https://tourgraph.ai)** — Tour discovery across 136K+ experiences in 3,380 destinations. v10.0.0: Express 5 + TypeScript backend, Next.js web, SwiftUI iOS with MapKit globe. *Pipeline pattern.* [[tourgraph.ai](https://tourgraph.ai)]
+- **[GitaVani](https://gitavani.app)** — Bhagavad Gita reader. 701 verses, 17 scholars, Sanskrit audio. iOS + Android. *Pipeline pattern.* [[gitavani.app](https://gitavani.app)]
+- **[ClearNews](https://getclearnews.com)** — News aggregator. 41 sources, 13 categories, no ads. iOS + Android + Web + API. *Pipeline pattern.* [[getclearnews.com](https://getclearnews.com)]
+- **[CoPilots Launchpad](https://github.com/nikhilsi/copilots-launchpad)** — M365 test account management. Azure Trusted Signing. macOS + Windows. MIT license. *Tooling pattern.* [[GitHub](https://github.com/nikhilsi/copilots-launchpad)]
+
 ### Background
 
-Before this: CTO and VP Engineering roles across Expedia ($45M savings), Imperative ($1M→$4M ARR as CTO & Head of Product), The Tour Guy, T-Mobile, Microsoft, AT&T, Hitachi Consulting (200+ engineers led). 114 LinkedIn recommendations from peers, reports, and executives. [[PDF](https://github.com/nikhilsi/resume/blob/main/Nikhil-Singhal-LinkedIn-114-Recommendations.pdf)]
+Before this: CTO and VP Engineering roles across Expedia ($45M savings), Imperative ($1M→$4M ARR as CTO & Head of Product), The Tour Guy (400% operational efficiency), T-Mobile, Microsoft, AT&T, Hitachi Consulting (200+ engineers led). 114 LinkedIn recommendations from peers, reports, and executives. [[PDF](https://nikhilsinghal.com/Nikhil-Singhal-LinkedIn-114-Recommendations.pdf)]
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/nikhilsinghal/) · [Resume](https://github.com/nikhilsi/resume) · [AI Trust Commons](https://aitrustcommons.org) · [HIP Charter](https://hipcharter.com) · [ORCID](https://orcid.org/0009-0003-5449-6830) · nikhilsinghal@hotmail.com · Seattle, WA
+[Portfolio](https://nikhilsinghal.com/portfolio/) · [LinkedIn](https://www.linkedin.com/in/nikhilsinghal/) · [AI Trust Commons](https://aitrustcommons.org) · [HIP Charter](https://hipcharter.com) · [ORCID](https://orcid.org/0009-0003-5449-6830) · nikhil@aitrustcommons.org · Seattle, WA
